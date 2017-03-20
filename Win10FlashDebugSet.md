@@ -19,4 +19,4 @@
 ![32位文件路径](./img/32flashsrc.png)
 ![64位文件路径](./img/64flashsrc.png)
 
-### 注：win10会自动更新flash，每次flash更新后都要替换这两个文件。
+### 注：win10会自动更新flash，每次flash更新后都要替换这两个文件，上述资源都在flash文件夹下。
